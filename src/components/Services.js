@@ -3,75 +3,53 @@ import React from 'react'
 
 export default function Services() {
   return (
-    <div className="service-page">
-      <header className="header">
-        <img
-          className="header-image"
-          src="https://tse3.mm.bing.net/th?id=OIP.RE35VkmNN1S5P66AEKCYQAHaBN&pid=Api&P=0&h=220"
-          alt="Service Page"
-        />
-      </header>
+    <div className="services-container">
+      <h1 className="services-heading">Our Services</h1>
+      <div className="service-items">
+        <div className="service-item">
+          <img
+            src="https://tse2.mm.bing.net/th?id=OIP.pU4HRart9lRnEDdyddPc_gHaEK&pid=Api&P=0&h=220"
+            alt="Cleaning Service 1"
+          />
+          <div className="FRAGRANCE1">
+            <h2>WE CREATE OUR OWN PERFUMES</h2>
+            <p>
+           
+            Layer perfumes to build your perfect scent: You can actually layer perfumes, from lightest scent to strongest scent to make your own ‘signature’ perfume, should you be unable to find the one you desire in one bottle. You can mix your own perfumes that belong to different fragrances note and families together to create that beautiful, signature scent of your own.
+            </p>
+          </div>
+        </div>
+        <div className="service-item">
+          <img
+            src="https://tse1.mm.bing.net/th?id=OIP.EqVA2_ZiCxPB7ozDMLFz5wHaEY&pid=Api&P=0&h=220"
+            alt="FRAGRANCE2"
+          />
+          <div className="service-info">
+            <h2>WE HAVE NEW FRAGRANCES EVERY SESEON</h2>
+            <p>
+            Trying too many scents at the same time can be extremely overwhelming, and that’s why it’s key to take a break and come back later to make a purchase, or alternatively take some samples home to try over a period of time. 
 
-      <div className="perfume-grid">
-        {/* Perfume 1 */}
-        <div className="perfume-item">
-          <img
-            className="perfume-image"
-            src="https://images.pexels.com/photos/965990/pexels-photo-965990.jpeg?auto=compress&cs=tinysrgb&w=600"
-            alt="Perfume 1"
-          />
-          <p className="perfume-name">LA CAPITALE PARFUM -50ml</p>
-          <p className="perfume-price">R3,995</p>
+Due to the journey the perfume goes through once it makes contact with your skin, it’s integral for you to test your perfume of choice prior to making the purchase
+            </p>
+          </div>
         </div>
-        <div className="perfume-item">
+        <div className="service-item">
           <img
-            className="perfume-image"
-            src="https://images.pexels.com/photos/8361423/pexels-photo-8361423.jpeg?auto=compress&cs=tinysrgb&w=600"
-            alt="Perfume 1"
+            src="https://tse2.mm.bing.net/th?id=OIP.6cvTr3eX8KhxXrFAeBbThAAAAA&pid=Api&P=0&h=220"
+            alt="Cleaning Service 3"
           />
-          <p className="perfume-name">BLUE HOPE PARFUM -100ml</p>
-          <p className="perfume-price">R6,995.00</p>
-        </div>
-        <div className="perfume-item">
-          <img
-            className="perfume-image"
-            src="https://images.pexels.com/photos/7405394/pexels-photo-7405394.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-            alt="Perfume 1"
-          />
-          <p className="perfume-name">AL-KHATT PARFUM -50ml</p>
-          <p className="perfume-price">R3,995.00</p>
-        </div>
-        <div className="perfume-item">
-          <img
-            className="perfume-image"
-            src="https://images.pexels.com/photos/1961784/pexels-photo-1961784.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-            alt="Perfume 1"
-          />
-          <p className="perfume-name">ALEXANDRIA II PARFUM -50ml</p>
-          <p className="perfume-price">R4,995.00</p>
-        </div>
-        <div className="perfume-item">
-          <img
-            className="perfume-image"
-            src="https://images.pexels.com/photos/1961791/pexels-photo-1961791.jpeg?auto=compress&cs=tinysrgb&w=600"
-            alt="Perfume 1"
-          />
-          <p className="perfume-name">APLLONIA PARFUM -50ml</p>
-          <p className="perfume-price">R3,995.00</p>
-        </div>
-        <div className="perfume-item">
-          <img
-            className="perfume-image"
-            src="https://images.pexels.com/photos/965993/pexels-photo-965993.jpeg?auto=compress&cs=tinysrgb&w=600"
-            alt="Perfume 1"
-          />
-          <p className="perfume-name">ALLENDE PARFUM</p>
-          <p className="perfume-price">R3,995.OO</p>
-        </div>
+          <div className="service-info">
+            <h2>HELPING YOU TO CHOOSE YOUR SIGNITUE</h2>
+            <p>
+            Choosing the right perfume is a very personal journey for everyone. It’s not as easy as reading reviews online, ordering a bottle and hoping for the best, you have to understand the fragrance notes and families, i.e., asking yourself important questions such as if you like floral notes, citrus notes or stronger scents like oud. It all depends on what appeases your senses and ultimately, what suits your personality. 
+            </p>
 
-       
+            
+          </div>
+        </div>
       </div>
     </div>
-  )
-}
+  );
+};
+
 
