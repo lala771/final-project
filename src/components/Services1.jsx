@@ -14,10 +14,10 @@ const Services = () => {
             alt="Cleaning Service 1"
           />
           <div className="FRAGRANCE1">
-            <h2>WE CREATE OUR OWN PERFUMES</h2>
+            <h2>WE CREATE OUR OWN PERFUMES!</h2>
             <p>
            
-            Layer perfumes to build your perfect scent: You can actually layer perfumes, from lightest scent to strongest scent to make your own ‘signature’ perfume, should you be unable to find the one you desire in one bottle. You can mix your own perfumes that belong to different fragrances note and families together to create that beautiful, signature scent of your own.
+            La Scento perfumes helps you to build your perfect scent: You can actually layer perfumes, from lightest scent to strongest scent to make your own ‘signature’ perfume, should you be unable to find the one you desire in one bottle. You can mix your own perfumes that belong to different fragrances note and families together to create that beautiful, signature scent of your own.
             </p>
           </div>
         </div>
@@ -27,7 +27,7 @@ const Services = () => {
             alt="FRAGRANCE2"
           />
           <div className="service-info">
-            <h2>WE HAVE NEW FRAGRANCES EVERY SESEON</h2>
+            <h2>WE HAVE NEW FRAGRANCES EVERY SEASON</h2>
             <p>
             Trying too many scents at the same time can be extremely overwhelming, and that’s why it’s key to take a break and come back later to make a purchase, or alternatively take some samples home to try over a period of time. 
 

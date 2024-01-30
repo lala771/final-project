@@ -7,25 +7,27 @@ export default function Services() {
       <h1 className="services-heading">Our Services</h1>
       <div className="service-items">
         <div className="service-item">
+        
+        
           <img
-            src="https://tse2.mm.bing.net/th?id=OIP.pU4HRart9lRnEDdyddPc_gHaEK&pid=Api&P=0&h=220"
+            src="https://tse3.mm.bing.net/th?id=OIP.y7-qbC5JTlvfIHFK9HUp8wHaE7&pid=Api&P=0&h=220"
             alt="Cleaning Service 1"
           />
           <div className="FRAGRANCE1">
-            <h2>WE CREATE OUR OWN PERFUMES</h2>
+            <h2>DO YOU WANT THE BEST PERFUME</h2>
             <p>
            
-            Layer perfumes to build your perfect scent: You can actually layer perfumes, from lightest scent to strongest scent to make your own ‘signature’ perfume, should you be unable to find the one you desire in one bottle. You can mix your own perfumes that belong to different fragrances note and families together to create that beautiful, signature scent of your own.
+           Its always best to design your own signiture. Scents have an uncanny ability to trigger memories and emotions in a way that other beauty products do not. So it’s no surprise that many beauty lovers find fragrances to be an innately personal category.
             </p>
           </div>
         </div>
         <div className="service-item">
           <img
-            src="https://tse1.mm.bing.net/th?id=OIP.EqVA2_ZiCxPB7ozDMLFz5wHaEY&pid=Api&P=0&h=220"
+            src="https://tse3.mm.bing.net/th?id=OIP.OmYeUbLqrrLySDcCNMc-XwHaE8&pid=Api&P=0&h=220"
             alt="FRAGRANCE2"
           />
           <div className="service-info">
-            <h2>WE HAVE NEW FRAGRANCES EVERY SESEON</h2>
+            <h2>TRY OUR NEW </h2>
             <p>
             Trying too many scents at the same time can be extremely overwhelming, and that’s why it’s key to take a break and come back later to make a purchase, or alternatively take some samples home to try over a period of time. 
 
@@ -35,7 +37,7 @@ Due to the journey the perfume goes through once it makes contact with your skin
         </div>
         <div className="service-item">
           <img
-            src="https://tse2.mm.bing.net/th?id=OIP.6cvTr3eX8KhxXrFAeBbThAAAAA&pid=Api&P=0&h=220"
+            src="https://tse4.mm.bing.net/th?id=OIP.9-B9Jtu7Of0FrxxgL4f4EAHaE8&pid=Api&P=0&h=220"
             alt="Cleaning Service 3"
           />
           <div className="service-info">
