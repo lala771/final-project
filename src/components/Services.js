@@ -14,10 +14,10 @@ export default function Services() {
             alt="Cleaning Service 1"
           />
           <div className="FRAGRANCE1">
-            <h2>DO YOU WANT THE BEST PERFUME</h2>
+            <h2>DO YOU WANT THE BEST PERFUME?git</h2>
             <p>
            
-           Its always best to design your own signiture. Scents have an uncanny ability to trigger memories and emotions in a way that other beauty products do not. So it’s no surprise that many beauty lovers find fragrances to be an innately personal category.
+           La Scento company will help you create your best version of perfume. Its always best to design your own signiture. Scents have an uncanny ability to trigger memories and emotions in a way that other beauty products do not. So it’s no surprise that many beauty lovers find fragrances to be an innately personal category.
             </p>
           </div>
         </div>
@@ -27,7 +27,7 @@ export default function Services() {
             alt="FRAGRANCE2"
           />
           <div className="service-info">
-            <h2>TRY OUR NEW </h2>
+            <h2>TRY OUR NEW FRAGRANCE!</h2>
             <p>
             Trying too many scents at the same time can be extremely overwhelming, and that’s why it’s key to take a break and come back later to make a purchase, or alternatively take some samples home to try over a period of time. 
 
